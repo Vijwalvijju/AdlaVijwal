@@ -1,58 +1,62 @@
-# AdlaVijwal
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<p align="center">🚀 Web Developer | 🧠 Tech Enthusiast | 💡 Lifelong Learner</p>
+<h1 align="center">Hi there, I'm ADLA VIJWAL 👋</h1>
+<p align="center">🚀 Web Developer | 💻 Coding Enthusiast | 🎯 Goal-Oriented Learner</p>
 
 ---
 
-### 🔥 About Me
+### 🔍 About Me
 
-- 🌱 I’m currently exploring **MERN Stack**, **Tailwind CSS**, and **Framer Motion**
-- 🔭 Passionate about building impactful web applications
-- 🧠 Always curious about **AI**, **IoT**, and **Open Source**
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 🎓 A passionate final-year student in [Your Major] at [Your College/University]
+- 💡 Focused on solving real-world problems using technology
+- 🌱 Currently exploring **React**, **Tailwind CSS**, **Framer Motion**, and **Backend APIs**
+- 💬 I love collaborating on **development, design, and innovation**
 
 ---
 
-### 🛠️ Technologies & Tools
+### 📚 Academic Projects
+
+#### 💡 **MediCare Nexus – Hospital Management System**
+> An intuitive hospital management system with a modern UI, PDF generation, and dynamic interfaces.
+
+#### 🔬 **MedScan Classifier – X-ray Classification Tool**
+> A web-based platform to upload, classify, and view medical X-rays with body part-based filters and diagnosis.
+
+#### 🛣️ **No Toll Plaza – GNSS-Based Toll Deduction System**
+> Smart highway toll collection system using GPS/GNSS tracking and bank automation.
+
+#### 🧠 **Real-Time Crowd Anomaly Detection System**
+> AI-based system for detecting unusual behavior in public crowds using software-based surveillance.
+
+---
+
+### 🛠️ Skills & Technologies
 
 #### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-#### 🧰 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+#### ⚙️ Tools & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-#### 🧪 Tools & Platforms
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="top langs" />
-</p>
+#### 🧰 Dev Tools
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 
 ---
 
-### 🚀 Let's Connect
+### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
