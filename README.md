@@ -5,7 +5,7 @@
 
 ### 🔍 About Me
 
-- 🎓 A passionate final-year student in [Your Major] at [Your College/University]
+- 🎓 A passionate final-year student in PYTHON at Sreyas Institute of Engineering and Technology
 - 💡 Focused on solving real-world problems using technology
 - 🌱 Currently exploring **React**, **Tailwind CSS**, **Framer Motion**, and **Backend APIs**
 - 💬 I love collaborating on **development, design, and innovation**
@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Vijwalvijju" />
 </p>
