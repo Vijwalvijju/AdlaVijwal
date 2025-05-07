@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm ADLA VIJWAL 👋</h1>
 <p align="center">🚀 Web Developer | 💻 Coding Enthusiast | 🎯 Goal-Oriented Learner</p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+There+👋;I'm+Vijwal+Vijju.;A+Passionate+Web+Developer+💻;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 ---
 
 ### 🔍 About Me
